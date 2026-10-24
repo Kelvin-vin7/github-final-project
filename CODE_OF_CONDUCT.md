@@ -13,7 +13,7 @@ Project maintainers are responsible for clarifying and enforcing standards of ac
 This Code of Conduct applies within all project spaces and when an individual officially represents the project in public.
 
 ## Enforcement
-Instances of abusive behavior may be reported to the project maintainers through the repository's issue tracker. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers by opening an issue in this repository or by contacting the repository owner directly on GitHub. All complaints will be reviewed and investigated promptly and fairly. Maintainers are obligated to respect the privacy and security of the reporter of any incident. Depending on the severity of the violation, maintainers may remove, edit, or reject comments, commits, code, issues, and other contributions, and may temporarily or permanently ban the contributor from the project, following the Enforcement Guidelines below.
 
 ## Enforcement Guidelines
 1. Correction: a private, written warning.
